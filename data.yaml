@@ -1,0 +1,22 @@
+- link: "https://news.itsfoss.com/tag/first-look/"
+  route: "/news/1"
+  path: "absolute"
+  parent: ".js-grid.o-grid.o-grid--4-columns"
+  child: "a"
+  value: false
+  attr: "src"
+- link: "https://linuxhint.com/"
+  route: "/news/2"
+  path: "relative"
+  parent: ".vce-loop-wrap"
+  child: "a"
+  value: false
+  attr: "src"
+- link: "https://9to5linux.com/"
+  route: "/news/3"
+  path: "relative"
+  parent: "#blog-entries"
+  child: "a"
+  value: false
+  attr: "src"
+
